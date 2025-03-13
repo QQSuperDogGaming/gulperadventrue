@@ -8,9 +8,9 @@ const bird = {
     y: 200,
     width: 30,
     height: 30,
-    gravity: 1.5,
+    gravity: 3.5,
     lift: -20,
-    velocity: 0,
+    velocity: 1,
 };
 
 // Pipe properties
